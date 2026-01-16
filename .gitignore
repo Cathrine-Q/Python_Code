@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 虚拟环境
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Windows
+Thumbs.db
+*.tmp
